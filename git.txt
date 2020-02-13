@@ -21,3 +21,38 @@ Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
 Date:   Thu Feb 13 12:39:55 2020 -0700
 
     First commit
+commit a3c11b4cb792ce12db4c4ab6906e3fb60a0999fc
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:53:29 2020 -0700
+
+    Changed the cat mouth location
+
+commit 311a653bd60ea44820b56a9308a7da0bd17362e8
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:52:26 2020 -0700
+
+    Added to the git.txt
+
+commit d85649b4f37ad45defb7ed8b0697803e47b5defb
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:52:01 2020 -0700
+
+    Changed the mouth width
+
+commit 91ec50feac83e13fe94161edbdd0ec3d723ca295
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:50:51 2020 -0700
+
+    Added git log
+
+commit d5aa14151729c3fb55ac6da93e0b97a90fbcff41
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:47:45 2020 -0700
+
+    Messed with the cat mouth
+
+commit 7692ccbbc92dffcd8b147212d8af042f321803c6
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 12:39:55 2020 -0700
+
+    First commit
