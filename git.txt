@@ -1,3 +1,28 @@
+commit d29ce5393f0bfefa2a2c408e114c19faeba40140
+Merge: 15d5e17 a3c11b4
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 12:57:42 2020 -0700
+
+    Moved eyes down and to the left
+
+commit 15d5e171d62f4204cb8715c7fc5e0ff661c66dbd
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 12:53:36 2020 -0700
+
+    Moved eyes slightly down and to the left
+
+commit a3c11b4cb792ce12db4c4ab6906e3fb60a0999fc
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:53:29 2020 -0700
+
+    Changed the cat mouth location
+
+commit 311a653bd60ea44820b56a9308a7da0bd17362e8
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:52:26 2020 -0700
+
+    Added to the git.txt
+
 commit d85649b4f37ad45defb7ed8b0697803e47b5defb
 Author: Pablo Pinedo <ppinedo@mines.edu>
 Date:   Thu Feb 13 12:52:01 2020 -0700
