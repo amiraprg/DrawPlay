@@ -1,4 +1,47 @@
-<<<<<<< HEAD
+commit 11fc883b13477d56b0b4c0f9db632a28901766e7
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 13:10:35 2020 -0700
+
+    Made eyes higher up, farther apart
+
+commit 4d579e6e935dae73d0829b7bfabe96239b43843b
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 13:08:16 2020 -0700
+
+    Widened eye width and height
+
+commit b4b89d2e6b15efc7edcfc4d4f23b976dea2ed8fe
+Merge: 4e91247 1ba48f3
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 13:06:15 2020 -0700
+
+    Added bin file
+
+commit 4e91247f704113d208efd0f51a53fc4edc7133f6
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 13:05:06 2020 -0700
+
+    Changed eyes to cyan
+
+commit 1ba48f3c01905d6bdd5b070eebec87de805a69b1
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 13:04:52 2020 -0700
+
+    Changed mouth color
+
+commit 6941e6c675e2a41ee9e12507e6a3cbb809c6cd70
+Merge: 703f04b aa8c888
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 13:02:21 2020 -0700
+
+    Git log updated
+
+commit 703f04b653a4b046fd987072ff9ec497dffed0fe
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 12:58:31 2020 -0700
+
+    Git log updated
+
 commit d29ce5393f0bfefa2a2c408e114c19faeba40140
 Merge: 15d5e17 a3c11b4
 Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
@@ -6,18 +49,23 @@ Date:   Thu Feb 13 12:57:42 2020 -0700
 
     Moved eyes down and to the left
 
-commit 15d5e171d62f4204cb8715c7fc5e0ff661c66dbd
-Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
-Date:   Thu Feb 13 12:53:36 2020 -0700
+commit aa8c8889cbe1b62ffc012741639cc1d9acc91bbb
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:56:19 2020 -0700
 
-    Moved eyes slightly down and to the left
-=======
+    Fixed the git.txt
+
 commit cf69279e7874885571e363d010ef5adadd24f2f0
 Author: Pablo Pinedo <ppinedo@mines.edu>
 Date:   Thu Feb 13 12:54:16 2020 -0700
 
     Changed the git.txt
->>>>>>> aa8c8889cbe1b62ffc012741639cc1d9acc91bbb
+
+commit 15d5e171d62f4204cb8715c7fc5e0ff661c66dbd
+Author: Amira Ramirez <apramirezgonzalez@mymail.mines.edu>
+Date:   Thu Feb 13 12:53:36 2020 -0700
+
+    Moved eyes slightly down and to the left
 
 commit a3c11b4cb792ce12db4c4ab6906e3fb60a0999fc
 Author: Pablo Pinedo <ppinedo@mines.edu>
