@@ -1,3 +1,15 @@
+commit d85649b4f37ad45defb7ed8b0697803e47b5defb
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:52:01 2020 -0700
+
+    Changed the mouth width
+
+commit 91ec50feac83e13fe94161edbdd0ec3d723ca295
+Author: Pablo Pinedo <ppinedo@mines.edu>
+Date:   Thu Feb 13 12:50:51 2020 -0700
+
+    Added git log
+
 commit d5aa14151729c3fb55ac6da93e0b97a90fbcff41
 Author: Pablo Pinedo <ppinedo@mines.edu>
 Date:   Thu Feb 13 12:47:45 2020 -0700
